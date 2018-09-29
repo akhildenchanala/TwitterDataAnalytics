@@ -1,0 +1,4339 @@
+{
+  "created_at": "Fri Sep 28 19:54:29 +0000 2018",
+  "id": 1045763697719701505,
+  "id_str": "1045763697719701505",
+  "text": "RT @CinemaWorldz: #RC12 : The Azerbaijan schedule is nearing its completion and the entire team will be returning to Hyderabad on October 1\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          18,
+          23
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CinemaWorldz",
+        "name": "Cinema Worldz\u2122\ud83c\udfac",
+        "id": 858712395753107460,
+        "id_str": "858712395753107460",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 343343892,
+    "id_str": "343343892",
+    "name": "Charan & Pallavi Addict",
+    "screen_name": "Hari_TejCherry",
+    "location": "",
+    "description": "Ram charan, @Sai_Pallavi92 Devotee..!! CinePhile, Film Student..\n Charan my adiction my happiness!! My Ambition : To direct Charan .!!",
+    "url": "https://t.co/tfXeFlmEUV",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/tfXeFlmEUV",
+            "expanded_url": "http://www.instagram.com/RAMCHARANFANZ",
+            "display_url": "instagram.com/RAMCHARANFANZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2980,
+    "friends_count": 1221,
+    "listed_count": 23,
+    "created_at": "Wed Jul 27 12:38:29 +0000 2011",
+    "favourites_count": 28965,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 72130,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044254335046041600/9YUMtBhj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044254335046041600/9YUMtBhj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/343343892/1512356600",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 01:32:12 +0000 2018",
+    "id": 1045486298960543744,
+    "id_str": "1045486298960543744",
+    "text": "#RC12 : The Azerbaijan schedule is nearing its completion and the entire team will be returning to Hyderabad on Oct\u2026 https://t.co/2DWVWf81mJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RC12",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2DWVWf81mJ",
+          "expanded_url": "https://twitter.com/i/web/status/1045486298960543744",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 858712395753107460,
+      "id_str": "858712395753107460",
+      "name": "Cinema Worldz\u2122\ud83c\udfac",
+      "screen_name": "CinemaWorldz",
+      "location": "",
+      "description": "24 \u2716 7 Exclusive Movie Updates : Know More About New Film Releases, Teasers, Trailers.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3351,
+      "friends_count": 8,
+      "listed_count": 7,
+      "created_at": "Sun Apr 30 15:59:24 +0000 2017",
+      "favourites_count": 216,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17240,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1036998154082639872/ttnWk0to_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036998154082639872/ttnWk0to_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/858712395753107460/1536072947",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 44,
+    "favorite_count": 61,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 44,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 19:37:14 +0000 2018",
+  "id": 1045759358133460993,
+  "id_str": "1045759358133460993",
+  "text": "\u00bfY los dibujos?\ud83d\udc95 @Cuneatos \n#Cemus2018 https://t.co/cG5iZK880x",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Cemus2018",
+        "indices": [
+          28,
+          38
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Cuneatos",
+        "name": "Neuroanato 2.0",
+        "id": 198426588,
+        "id_str": "198426588",
+        "indices": [
+          17,
+          26
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045759349929328640,
+        "id_str": "1045759349929328640",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoNIlo0UwAAbcNw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoNIlo0UwAAbcNw.jpg",
+        "url": "https://t.co/cG5iZK880x",
+        "display_url": "pic.twitter.com/cG5iZK880x",
+        "expanded_url": "https://twitter.com/Angel_RC12/status/1045759358133460993/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045759349929328640,
+        "id_str": "1045759349929328640",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoNIlo0UwAAbcNw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoNIlo0UwAAbcNw.jpg",
+        "url": "https://t.co/cG5iZK880x",
+        "display_url": "pic.twitter.com/cG5iZK880x",
+        "expanded_url": "https://twitter.com/Angel_RC12/status/1045759358133460993/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "es",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 296115312,
+    "id_str": "296115312",
+    "name": "Lalo",
+    "screen_name": "Angel_RC12",
+    "location": "221B Baker Street",
+    "description": "XVIII  SC: angelrc12  Insta: Angel_rc12",
+    "url": "https://t.co/iR6mSnyaFf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/iR6mSnyaFf",
+            "expanded_url": "https://www.facebook.com/ByTrollface12",
+            "display_url": "facebook.com/ByTrollface12",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 516,
+    "friends_count": 408,
+    "listed_count": 3,
+    "created_at": "Tue May 10 06:58:12 +0000 2011",
+    "favourites_count": 478,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5408,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1031258109749080064/SGHL2ric_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1031258109749080064/SGHL2ric_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/296115312/1534706069",
+    "profile_link_color": "062122",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "es"
+}{
+  "created_at": "Fri Sep 28 19:28:08 +0000 2018",
+  "id": 1045757068047659008,
+  "id_str": "1045757068047659008",
+  "text": "RT @PullaraoA1: \ud83d\udce3 Poll alert \n\nThis 2019 Sankranthi \ud83d\udcaa\n\n\u2764\ufe0f Like for #NTRBiopic \n\n\ud83d\udc49 RT for #rc12 \ud83d\udc48\n \nLet's see who will Win \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NTRBiopic",
+        "indices": [
+          67,
+          77
+        ]
+      },
+      {
+        "text": "rc12",
+        "indices": [
+          89,
+          94
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PullaraoA1",
+        "name": "Charanist 4 PK \u270a",
+        "id": 973867876061974528,
+        "id_str": "973867876061974528",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1034457916776927232,
+    "id_str": "1034457916776927232",
+    "name": "johnwick fan of janasena",
+    "screen_name": "ParimiGopinath",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4,
+    "friends_count": 29,
+    "listed_count": 0,
+    "created_at": "Tue Aug 28 15:09:21 +0000 2018",
+    "favourites_count": 8,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 156,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1036133488141844480/8EZaWUHx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1036133488141844480/8EZaWUHx_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 21 13:07:50 +0000 2018",
+    "id": 1043124647540154368,
+    "id_str": "1043124647540154368",
+    "text": "\ud83d\udce3 Poll alert \n\nThis 2019 Sankranthi \ud83d\udcaa\n\n\u2764\ufe0f Like for #NTRBiopic \n\n\ud83d\udc49 RT for #rc12 \ud83d\udc48\n \nLet's see who will Win \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/djlqvTjcpI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NTRBiopic",
+          "indices": [
+            51,
+            61
+          ]
+        },
+        {
+          "text": "rc12",
+          "indices": [
+            73,
+            78
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1043124344489046018,
+          "id_str": "1043124344489046018",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnnsEInU8AI0dpA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnnsEInU8AI0dpA.jpg",
+          "url": "https://t.co/djlqvTjcpI",
+          "display_url": "pic.twitter.com/djlqvTjcpI",
+          "expanded_url": "https://twitter.com/PullaraoA1/status/1043124647540154368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 719,
+              "h": 716,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 677,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 719,
+              "h": 716,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1043124344489046018,
+          "id_str": "1043124344489046018",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnnsEInU8AI0dpA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnnsEInU8AI0dpA.jpg",
+          "url": "https://t.co/djlqvTjcpI",
+          "display_url": "pic.twitter.com/djlqvTjcpI",
+          "expanded_url": "https://twitter.com/PullaraoA1/status/1043124647540154368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 719,
+              "h": 716,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 677,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 719,
+              "h": 716,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1043124368736317441,
+          "id_str": "1043124368736317441",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnnsFi8U8AEl4Z5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnnsFi8U8AEl4Z5.jpg",
+          "url": "https://t.co/djlqvTjcpI",
+          "display_url": "pic.twitter.com/djlqvTjcpI",
+          "expanded_url": "https://twitter.com/PullaraoA1/status/1043124647540154368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 973867876061974528,
+      "id_str": "973867876061974528",
+      "name": "Charanist 4 PK \u270a",
+      "screen_name": "PullaraoA1",
+      "location": " #\u0c16\u0c2e\u0c4d\u0c2e\u0c02 ",
+      "description": "#DP_Cover_FOTO_same_to_same_ah \ud83d\udd25",
+      "url": "https://t.co/xphlM3VQjb",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xphlM3VQjb",
+              "expanded_url": "http://janasenaparty.org/donations",
+              "display_url": "janasenaparty.org/donations",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 104,
+      "friends_count": 153,
+      "listed_count": 0,
+      "created_at": "Wed Mar 14 10:26:10 +0000 2018",
+      "favourites_count": 6466,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1506,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044517506625429505/7gLGVvyN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044517506625429505/7gLGVvyN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/973867876061974528/1537762905",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "b850c1bfd38f30e0",
+      "url": "https://api.twitter.com/1.1/geo/id/b850c1bfd38f30e0.json",
+      "place_type": "country",
+      "name": "India",
+      "full_name": "India",
+      "country_code": "IN",
+      "country": "India",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67.997691,
+              6.622513
+            ],
+            [
+              97.170672,
+              6.622513
+            ],
+            [
+              97.170672,
+              33.254896
+            ],
+            [
+              67.997691,
+              33.254896
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 692,
+    "favorite_count": 1068,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 692,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 19:17:44 +0000 2018",
+  "id": 1045754449505878016,
+  "id_str": "1045754449505878016",
+  "text": "RT @HimajaOfficial: Now Leaving Baku.. Had a great schedule here.. with Beautiful Actress @Advani_Kiara. #RC12 https://t.co/eibobYCcai",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          105,
+          110
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "HimajaOfficial",
+        "name": "Himaja",
+        "id": 999301173323579392,
+        "id_str": "999301173323579392",
+        "indices": [
+          3,
+          18
+        ]
+      },
+      {
+        "screen_name": "Advani_Kiara",
+        "name": "Kiara Advani",
+        "id": 2432156600,
+        "id_str": "2432156600",
+        "indices": [
+          90,
+          103
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045353643208142848,
+        "id_str": "1045353643208142848",
+        "indices": [
+          111,
+          134
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+        "url": "https://t.co/eibobYCcai",
+        "display_url": "pic.twitter.com/eibobYCcai",
+        "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 511,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045353660795047937,
+        "source_status_id_str": "1045353660795047937",
+        "source_user_id": 999301173323579392,
+        "source_user_id_str": "999301173323579392"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045353643208142848,
+        "id_str": "1045353643208142848",
+        "indices": [
+          111,
+          134
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+        "url": "https://t.co/eibobYCcai",
+        "display_url": "pic.twitter.com/eibobYCcai",
+        "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 511,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045353660795047937,
+        "source_status_id_str": "1045353660795047937",
+        "source_user_id": 999301173323579392,
+        "source_user_id_str": "999301173323579392"
+      },
+      {
+        "id": 1045353652292964352,
+        "id_str": "1045353652292964352",
+        "indices": [
+          111,
+          134
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoHXm7WUUAAsSQX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoHXm7WUUAAsSQX.jpg",
+        "url": "https://t.co/eibobYCcai",
+        "display_url": "pic.twitter.com/eibobYCcai",
+        "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 849,
+            "h": 1130,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 511,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045353660795047937,
+        "source_status_id_str": "1045353660795047937",
+        "source_user_id": 999301173323579392,
+        "source_user_id_str": "999301173323579392"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 147466727,
+    "id_str": "147466727",
+    "name": "krishna kanth",
+    "screen_name": "pkkanth",
+    "location": "Kakinada -- Hyderabad -- Pune",
+    "description": "Movie buff",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 394,
+    "friends_count": 1336,
+    "listed_count": 29,
+    "created_at": "Mon May 24 06:16:55 +0000 2010",
+    "favourites_count": 48554,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 39086,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1010761567724376064/AKad6lV5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010761567724376064/AKad6lV5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/147466727/1441454203",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Thu Sep 27 16:45:09 +0000 2018",
+    "id": 1045353660795047937,
+    "id_str": "1045353660795047937",
+    "text": "Now Leaving Baku.. Had a great schedule here.. with Beautiful Actress @Advani_Kiara. #RC12 https://t.co/eibobYCcai",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RC12",
+          "indices": [
+            85,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Advani_Kiara",
+          "name": "Kiara Advani",
+          "id": 2432156600,
+          "id_str": "2432156600",
+          "indices": [
+            70,
+            83
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045353643208142848,
+          "id_str": "1045353643208142848",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+          "url": "https://t.co/eibobYCcai",
+          "display_url": "pic.twitter.com/eibobYCcai",
+          "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045353643208142848,
+          "id_str": "1045353643208142848",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoHXmZgU8AALgo3.jpg",
+          "url": "https://t.co/eibobYCcai",
+          "display_url": "pic.twitter.com/eibobYCcai",
+          "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1045353652292964352,
+          "id_str": "1045353652292964352",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoHXm7WUUAAsSQX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoHXm7WUUAAsSQX.jpg",
+          "url": "https://t.co/eibobYCcai",
+          "display_url": "pic.twitter.com/eibobYCcai",
+          "expanded_url": "https://twitter.com/HimajaOfficial/status/1045353660795047937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 849,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 511,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 999301173323579392,
+      "id_str": "999301173323579392",
+      "name": "Himaja",
+      "screen_name": "HimajaOfficial",
+      "location": "",
+      "description": "ACTRESS",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 368,
+      "friends_count": 0,
+      "listed_count": 0,
+      "created_at": "Wed May 23 14:49:00 +0000 2018",
+      "favourites_count": 1,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 14,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045353834019663872/Krypl8se_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045353834019663872/Krypl8se_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/999301173323579392/1527088595",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 187,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 57,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 19:17:28 +0000 2018",
+  "id": 1045754381746941952,
+  "id_str": "1045754381746941952",
+  "text": "Top 5 Telugu movies :-\n1. Bahubali 2\n2. Bahubali 1\n3. Bharat Ane Nenu\n4. Srimanthudu\n5. Rangasthalam\u2026 https://t.co/Tq1d1uhYV4",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/Tq1d1uhYV4",
+        "expanded_url": "https://twitter.com/i/web/status/1045754381746941952",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          102,
+          125
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "in",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1044166164954460161,
+    "id_str": "1044166164954460161",
+    "name": "Ravikanth",
+    "screen_name": "Ravikan93872607",
+    "location": "",
+    "description": "DHFM",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 0,
+    "friends_count": 0,
+    "listed_count": 0,
+    "created_at": "Mon Sep 24 10:06:28 +0000 2018",
+    "favourites_count": 2,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 329,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1044180583578972160/oflGiWQm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044180583578972160/oflGiWQm_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "in"
+}{
+  "created_at": "Fri Sep 28 19:15:53 +0000 2018",
+  "id": 1045753983934099456,
+  "id_str": "1045753983934099456",
+  "text": "RT @IKisankharat: Sry ...not getting time bcoz of exams\n\nThen tooo. ...\n\n#RamCharan \n\nI love you my BAE RAM CHARAN \n\n\u2764\u2764\u2764\u2764\u2764\u2764\n\n#RC12 https://\u2026",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RamCharan",
+        "indices": [
+          73,
+          83
+        ]
+      },
+      {
+        "text": "RC12",
+        "indices": [
+          125,
+          130
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "IKisankharat",
+        "name": "vaishnavee kharat",
+        "id": 933352126905851904,
+        "id_str": "933352126905851904",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 422053751,
+    "id_str": "422053751",
+    "name": "#RC12 #\u0c1c\u0c48_\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23 \ud83d\udcaa",
+    "screen_name": "sheshubr",
+    "location": "chiru mega youth force MUSCAT",
+    "description": "I \ud83d\udc96 My INDIA \ud83c\uddee\ud83c\uddf3 Pure Telanganite n Megafamily admirer\nCMYF Activist in Muscat\n& from -Rajanna Sircilla #JaiTelangana \ud83d\ude4f",
+    "url": "https://t.co/OaBJZGNA1g",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/OaBJZGNA1g",
+            "expanded_url": "http://cmyfmuscat.com",
+            "display_url": "cmyfmuscat.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1157,
+    "friends_count": 166,
+    "listed_count": 11,
+    "created_at": "Sat Nov 26 18:59:24 +0000 2011",
+    "favourites_count": 11847,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 28801,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1032858946208452608/EJpJ435p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032858946208452608/EJpJ435p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/422053751/1407389852",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 13:57:51 +0000 2018",
+    "id": 1045673949047078912,
+    "id_str": "1045673949047078912",
+    "text": "Sry ...not getting time bcoz of exams\n\nThen tooo. ...\n\n#RamCharan \n\nI love you my BAE RAM CHARAN \n\n\u2764\u2764\u2764\u2764\u2764\u2764\n\n#RC12 https://t.co/1VuDekc9gJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RamCharan",
+          "indices": [
+            55,
+            65
+          ]
+        },
+        {
+          "text": "RC12",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045673943716093952,
+          "id_str": "1045673943716093952",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoL66V4UYAAGAIA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoL66V4UYAAGAIA.jpg",
+          "url": "https://t.co/1VuDekc9gJ",
+          "display_url": "pic.twitter.com/1VuDekc9gJ",
+          "expanded_url": "https://twitter.com/IKisankharat/status/1045673949047078912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 399,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 399,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045673943716093952,
+          "id_str": "1045673943716093952",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoL66V4UYAAGAIA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoL66V4UYAAGAIA.jpg",
+          "url": "https://t.co/1VuDekc9gJ",
+          "display_url": "pic.twitter.com/1VuDekc9gJ",
+          "expanded_url": "https://twitter.com/IKisankharat/status/1045673949047078912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 720,
+              "h": 399,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 399,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 933352126905851904,
+      "id_str": "933352126905851904",
+      "name": "vaishnavee kharat",
+      "screen_name": "IKisankharat",
+      "location": "Pimple Soudagar, Haveli",
+      "description": "die hard  fan of #RamCharan. ......i am a artist .. from pune Maharashtra. ....n proud Indian. .....\nclear as devil....twice as pretty \ud83d\ude09\ud83d\ude09",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 434,
+      "friends_count": 55,
+      "listed_count": 1,
+      "created_at": "Wed Nov 22 15:11:02 +0000 2017",
+      "favourites_count": 8384,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2630,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1041712742594297856/nuynt0U__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041712742594297856/nuynt0U__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/933352126905851904/1519754719",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 32,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 16,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 19:05:25 +0000 2018",
+  "id": 1045751350603198464,
+  "id_str": "1045751350603198464",
+  "text": "@advaitology @rkpowerfan Ide mata repu RC12 release ayyaka cheppu",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "advaitology",
+        "name": "#Advaitam",
+        "id": 976410860968075264,
+        "id_str": "976410860968075264",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "rkpowerfan",
+        "name": "!!RK!!",
+        "id": 2282087880,
+        "id_str": "2282087880",
+        "indices": [
+          13,
+          24
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "tl",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "in_reply_to_status_id": 1045592596406571008,
+  "in_reply_to_status_id_str": "1045592596406571008",
+  "in_reply_to_user_id": 976410860968075264,
+  "in_reply_to_user_id_str": "976410860968075264",
+  "in_reply_to_screen_name": "advaitology",
+  "user": {
+    "id": 946030452007038977,
+    "id_str": "946030452007038977",
+    "name": "I am an Indian",
+    "screen_name": "Nagchakhil",
+    "location": "",
+    "description": "India, \nGanguly ,Dravid,\nKing Nagarjuna,NagaChaitanya.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 84,
+    "friends_count": 152,
+    "listed_count": 0,
+    "created_at": "Wed Dec 27 14:50:10 +0000 2017",
+    "favourites_count": 10712,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6827,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1012213435549999104/bf0W0Yr9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1012213435549999104/bf0W0Yr9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/946030452007038977/1514830207",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "tl"
+}{
+  "created_at": "Fri Sep 28 19:03:44 +0000 2018",
+  "id": 1045750927393677312,
+  "id_str": "1045750927393677312",
+  "text": "RT @CultCharanist: #RC12\n#RC12ForSankranthi2019\n#RamCharan\n#11YrsOfIconicRAMCHARAN https://t.co/ZpgwJ2kvp9",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          19,
+          24
+        ]
+      },
+      {
+        "text": "RC12ForSankranthi2019",
+        "indices": [
+          25,
+          47
+        ]
+      },
+      {
+        "text": "RamCharan",
+        "indices": [
+          48,
+          58
+        ]
+      },
+      {
+        "text": "11YrsOfIconicRAMCHARAN",
+        "indices": [
+          59,
+          82
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CultCharanist",
+        "name": "#RC12ForSankranthi2019",
+        "id": 2957220588,
+        "id_str": "2957220588",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045588639378358272,
+        "id_str": "1045588639378358272",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+        "url": "https://t.co/ZpgwJ2kvp9",
+        "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+        "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 955,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 541,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1019,
+            "h": 1280,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045588700413845504,
+        "source_status_id_str": "1045588700413845504",
+        "source_user_id": 2957220588,
+        "source_user_id_str": "2957220588"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045588639378358272,
+        "id_str": "1045588639378358272",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+        "url": "https://t.co/ZpgwJ2kvp9",
+        "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+        "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 955,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 541,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1019,
+            "h": 1280,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045588700413845504,
+        "source_status_id_str": "1045588700413845504",
+        "source_user_id": 2957220588,
+        "source_user_id_str": "2957220588"
+      },
+      {
+        "id": 1045588661658517504,
+        "id_str": "1045588661658517504",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKtWRdVAAAaS-4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKtWRdVAAAaS-4.jpg",
+        "url": "https://t.co/ZpgwJ2kvp9",
+        "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+        "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1011,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 537,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 948,
+            "h": 1200,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045588700413845504,
+        "source_status_id_str": "1045588700413845504",
+        "source_user_id": 2957220588,
+        "source_user_id_str": "2957220588"
+      },
+      {
+        "id": 1045588679551381504,
+        "id_str": "1045588679551381504",
+        "indices": [
+          83,
+          106
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKtXUHUcAAMZ6A.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKtXUHUcAAMZ6A.jpg",
+        "url": "https://t.co/ZpgwJ2kvp9",
+        "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+        "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 535,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 944,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1007,
+            "h": 1280,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045588700413845504,
+        "source_status_id_str": "1045588700413845504",
+        "source_user_id": 2957220588,
+        "source_user_id_str": "2957220588"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "und",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1011151853583622144,
+    "id_str": "1011151853583622144",
+    "name": "#RamCharan Teja!\u2122",
+    "screen_name": "aishwarya_mili",
+    "location": "Delhi, India",
+    "description": "#MegaPowerStar #RamCharanTeja!!! \nFan of Mega Blood.... Fighting kills, Intelligence And Ofcourse Personality!! \nKing Of The South Indian INDUSTRY!!! \n\ud83d\udd31\ud83d\udd31\u00ae\u00a9\u203c",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 40,
+    "friends_count": 64,
+    "listed_count": 0,
+    "created_at": "Mon Jun 25 07:39:22 +0000 2018",
+    "favourites_count": 3005,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 1907,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045486275187245057/yF4XjzcR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045486275187245057/yF4XjzcR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1011151853583622144/1533781402",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 08:19:06 +0000 2018",
+    "id": 1045588700413845504,
+    "id_str": "1045588700413845504",
+    "text": "#RC12\n#RC12ForSankranthi2019\n#RamCharan\n#11YrsOfIconicRAMCHARAN https://t.co/ZpgwJ2kvp9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RC12",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "RC12ForSankranthi2019",
+          "indices": [
+            6,
+            28
+          ]
+        },
+        {
+          "text": "RamCharan",
+          "indices": [
+            29,
+            39
+          ]
+        },
+        {
+          "text": "11YrsOfIconicRAMCHARAN",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045588639378358272,
+          "id_str": "1045588639378358272",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+          "url": "https://t.co/ZpgwJ2kvp9",
+          "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+          "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 955,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1019,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045588639378358272,
+          "id_str": "1045588639378358272",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKtU-dUwAAczEm.jpg",
+          "url": "https://t.co/ZpgwJ2kvp9",
+          "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+          "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 955,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1019,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1045588661658517504,
+          "id_str": "1045588661658517504",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKtWRdVAAAaS-4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKtWRdVAAAaS-4.jpg",
+          "url": "https://t.co/ZpgwJ2kvp9",
+          "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+          "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1011,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 948,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1045588679551381504,
+          "id_str": "1045588679551381504",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKtXUHUcAAMZ6A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKtXUHUcAAMZ6A.jpg",
+          "url": "https://t.co/ZpgwJ2kvp9",
+          "display_url": "pic.twitter.com/ZpgwJ2kvp9",
+          "expanded_url": "https://twitter.com/CultCharanist/status/1045588700413845504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 535,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 944,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1007,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2957220588,
+      "id_str": "2957220588",
+      "name": "#RC12ForSankranthi2019",
+      "screen_name": "CultCharanist",
+      "location": "India",
+      "description": "RamCharan Fan Forever !!!\nC/O Karnataka",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3918,
+      "friends_count": 140,
+      "listed_count": 8,
+      "created_at": "Sat Jan 03 12:34:20 +0000 2015",
+      "favourites_count": 1002,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 32720,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/990115422514098177/irpIpL8G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/990115422514098177/irpIpL8G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2957220588/1514567531",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 34,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  "is_quote_status": false,
+  "retweet_count": 21,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}{
+  "created_at": "Fri Sep 28 19:02:22 +0000 2018",
+  "id": 1045750582609235968,
+  "id_str": "1045750582609235968",
+  "text": "@midwestmoviesus Meru tesukovalsindi #Charan di #RC12 \ud83e\udd17",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Charan",
+        "indices": [
+          37,
+          44
+        ]
+      },
+      {
+        "text": "RC12",
+        "indices": [
+          48,
+          53
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "midwestmoviesus",
+        "name": "Midwest Movies",
+        "id": 269041269,
+        "id_str": "269041269",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "in",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "in_reply_to_status_id": 1045497382467764224,
+  "in_reply_to_status_id_str": "1045497382467764224",
+  "in_reply_to_user_id": 269041269,
+  "in_reply_to_user_id_str": "269041269",
+  "in_reply_to_screen_name": "midwestmoviesus",
+  "user": {
+    "id": 765058443522609152,
+    "id_str": "765058443522609152",
+    "name": "PC Creative",
+    "screen_name": "thpyazmass",
+    "location": "Madanapalli",
+    "description": "This is #PC :)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 12,
+    "friends_count": 30,
+    "listed_count": 0,
+    "created_at": "Mon Aug 15 05:32:02 +0000 2016",
+    "favourites_count": 4116,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 989,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039749623794073601/c2jfsIbz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039749623794073601/c2jfsIbz_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "in"
+}{
+  "created_at": "Fri Sep 28 18:59:38 +0000 2018",
+  "id": 1045749893095022592,
+  "id_str": "1045749893095022592",
+  "text": "RT @ramucharan143: #RC12 Fan Made edit \ud83d\udc4c\ud83d\udc4c\n\n#RamCharan \n#11YrsOfIconicRAMCHARAN https://t.co/jEc1tOPk1q",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          19,
+          24
+        ]
+      },
+      {
+        "text": "RamCharan",
+        "indices": [
+          43,
+          53
+        ]
+      },
+      {
+        "text": "11YrsOfIconicRAMCHARAN",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ramucharan143",
+        "name": "Ramu Charan",
+        "id": 3303294396,
+        "id_str": "3303294396",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045626670877536256,
+        "id_str": "1045626670877536256",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+        "url": "https://t.co/jEc1tOPk1q",
+        "display_url": "pic.twitter.com/jEc1tOPk1q",
+        "expanded_url": "https://twitter.com/ramucharan143/status/1045626690183954432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 464,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045626690183954432,
+        "source_status_id_str": "1045626690183954432",
+        "source_user_id": 3303294396,
+        "source_user_id_str": "3303294396"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045626670877536256,
+        "id_str": "1045626670877536256",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+        "url": "https://t.co/jEc1tOPk1q",
+        "display_url": "pic.twitter.com/jEc1tOPk1q",
+        "expanded_url": "https://twitter.com/ramucharan143/status/1045626690183954432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 464,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045626690183954432,
+        "source_status_id_str": "1045626690183954432",
+        "source_user_id": 3303294396,
+        "source_user_id_str": "3303294396"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1035169906562486273,
+    "id_str": "1035169906562486273",
+    "name": "#11Years of Ramcharan\u2764\u2764",
+    "screen_name": "UrsMadhu4",
+    "location": "",
+    "description": "I am the world greatest fan of #Ramcharan \ud83d\ude0d\ud83d\ude0d/ #powerstar off screen attitude follower \ud83d\ude4f\ud83d\ude4f",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 57,
+    "friends_count": 151,
+    "listed_count": 0,
+    "created_at": "Thu Aug 30 14:18:33 +0000 2018",
+    "favourites_count": 9004,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 4984,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1045383978788614145/Fctjoa1B_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045383978788614145/Fctjoa1B_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035169906562486273/1538051342",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 10:50:04 +0000 2018",
+    "id": 1045626690183954432,
+    "id_str": "1045626690183954432",
+    "text": "#RC12 Fan Made edit \ud83d\udc4c\ud83d\udc4c\n\n#RamCharan \n#11YrsOfIconicRAMCHARAN https://t.co/jEc1tOPk1q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RC12",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "RamCharan",
+          "indices": [
+            24,
+            34
+          ]
+        },
+        {
+          "text": "11YrsOfIconicRAMCHARAN",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045626670877536256,
+          "id_str": "1045626670877536256",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+          "url": "https://t.co/jEc1tOPk1q",
+          "display_url": "pic.twitter.com/jEc1tOPk1q",
+          "expanded_url": "https://twitter.com/ramucharan143/status/1045626690183954432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045626670877536256,
+          "id_str": "1045626670877536256",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLP6s1UcAAWf77.jpg",
+          "url": "https://t.co/jEc1tOPk1q",
+          "display_url": "pic.twitter.com/jEc1tOPk1q",
+          "expanded_url": "https://twitter.com/ramucharan143/status/1045626690183954432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3303294396,
+      "id_str": "3303294396",
+      "name": "Ramu Charan",
+      "screen_name": "ramucharan143",
+      "location": "Rajahmundry, ",
+      "description": "#RamCharan\ud83d\udc95\ud83d\udc93",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4585,
+      "friends_count": 5019,
+      "listed_count": 29,
+      "created_at": "Sat Aug 01 12:51:06 +0000 2015",
+      "favourites_count": 79442,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 49032,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045332080291282944/sdWsR98m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045332080291282944/sdWsR98m_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3303294396/1516534131",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 21,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 18:57:35 +0000 2018",
+  "id": 1045749376747032576,
+  "id_str": "1045749376747032576",
+  "text": "Kiara Advani snapped with Ram Charan as #RC12 wraps up Azerbaijan shoot - Times of India https://t.co/ywLjI64vOT \u0447\u0435\u0440\u0435\u0437 @etimes",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          40,
+          45
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "etimes",
+        "name": "ETimes",
+        "id": 30857481,
+        "id_str": "30857481",
+        "indices": [
+          119,
+          126
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ywLjI64vOT",
+        "expanded_url": "http://toi.in/BqEYDZ8/a24gj",
+        "display_url": "toi.in/BqEYDZ8/a24gj",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "und",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1036631681371922433,
+    "id_str": "1036631681371922433",
+    "name": "Nariman",
+    "screen_name": "Nariman47416884",
+    "location": "",
+    "description": "",
+    "url": "https://t.co/3d5RzQxmXr",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3d5RzQxmXr",
+            "expanded_url": "http://www.narimanfilm.az",
+            "display_url": "narimanfilm.az",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1,
+    "friends_count": 57,
+    "listed_count": 0,
+    "created_at": "Mon Sep 03 15:07:07 +0000 2018",
+    "favourites_count": 41,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 21,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": true,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "efc23cd34689b068",
+    "url": "https://api.twitter.com/1.1/geo/id/efc23cd34689b068.json",
+    "place_type": "country",
+    "name": "Azerbaijan",
+    "full_name": "Azerbaijan",
+    "country_code": "AZ",
+    "country": "Azerbaijan",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.763113,
+            38.3970566
+          ],
+          [
+            50.6078339,
+            38.3970566
+          ],
+          [
+            50.6078339,
+            41.9099084
+          ],
+          [
+            44.763113,
+            41.9099084
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "und"
+}{
+  "created_at": "Fri Sep 28 18:47:34 +0000 2018",
+  "id": 1045746856683294720,
+  "id_str": "1045746856683294720",
+  "text": "How many are you go with this title\n\nRe tweet \ud83d\udd01- No\nLike\u2764 - Yes\n\n #RC12 #RamCharan #boyapatisrinu\u2026 https://t.co/p2fYAmWOtN",
+  "truncated": true,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          66,
+          71
+        ]
+      },
+      {
+        "text": "RamCharan",
+        "indices": [
+          72,
+          82
+        ]
+      },
+      {
+        "text": "boyapatisrinu",
+        "indices": [
+          83,
+          97
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/p2fYAmWOtN",
+        "expanded_url": "https://twitter.com/i/web/status/1045746856683294720",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          99,
+          122
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 803850408632418305,
+    "id_str": "803850408632418305",
+    "name": "Mr.C Tinku",
+    "screen_name": "Ramcharanactor",
+    "location": "Vizag",
+    "description": "PVT Employee but huge fan of  Mega Power Star #RamCharan",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 16,
+    "friends_count": 3,
+    "listed_count": 1,
+    "created_at": "Wed Nov 30 06:37:27 +0000 2016",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 26,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/803853766432788481/KONjXgEr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/803853766432788481/KONjXgEr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/803850408632418305/1527615492",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 18:45:23 +0000 2018",
+  "id": 1045746307627855872,
+  "id_str": "1045746307627855872",
+  "text": "RT @upasanakonidela: Taking the boys out for a healthy lunch ! #kanalkanan @DVVMovies   @isak_cheff #ramcharan #rc12 https://t.co/dlUxMSFNoi",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "kanalkanan",
+        "indices": [
+          63,
+          74
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "upasanakonidela",
+        "name": "Upasana Kamineni",
+        "id": 747433748128473088,
+        "id_str": "747433748128473088",
+        "indices": [
+          3,
+          19
+        ]
+      },
+      {
+        "screen_name": "DVVMovies",
+        "name": "DVV Entertainment",
+        "id": 3026106503,
+        "id_str": "3026106503",
+        "indices": [
+          75,
+          85
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 765058443522609152,
+    "id_str": "765058443522609152",
+    "name": "PC Creative",
+    "screen_name": "thpyazmass",
+    "location": "Madanapalli",
+    "description": "This is #PC :)",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 12,
+    "friends_count": 30,
+    "listed_count": 0,
+    "created_at": "Mon Aug 15 05:32:02 +0000 2016",
+    "favourites_count": 4116,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 989,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039749623794073601/c2jfsIbz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039749623794073601/c2jfsIbz_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Tue Sep 25 12:00:48 +0000 2018",
+    "id": 1044557328043798528,
+    "id_str": "1044557328043798528",
+    "text": "Taking the boys out for a healthy lunch ! #kanalkanan @DVVMovies   @isak_cheff #ramcharan #rc12 https://t.co/dlUxMSFNoi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kanalkanan",
+          "indices": [
+            42,
+            53
+          ]
+        },
+        {
+          "text": "ramcharan",
+          "indices": [
+            79,
+            89
+          ]
+        },
+        {
+          "text": "rc12",
+          "indices": [
+            90,
+            95
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DVVMovies",
+          "name": "DVV Entertainment",
+          "id": 3026106503,
+          "id_str": "3026106503",
+          "indices": [
+            54,
+            64
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1044557312621391872,
+          "id_str": "1044557312621391872",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dn8DV25VsAA-tiS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dn8DV25VsAA-tiS.jpg",
+          "url": "https://t.co/dlUxMSFNoi",
+          "display_url": "pic.twitter.com/dlUxMSFNoi",
+          "expanded_url": "https://twitter.com/upasanakonidela/status/1044557328043798528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 948,
+              "h": 1022,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 631,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 1022,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1044557312621391872,
+          "id_str": "1044557312621391872",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dn8DV25VsAA-tiS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dn8DV25VsAA-tiS.jpg",
+          "url": "https://t.co/dlUxMSFNoi",
+          "display_url": "pic.twitter.com/dlUxMSFNoi",
+          "expanded_url": "https://twitter.com/upasanakonidela/status/1044557328043798528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 948,
+              "h": 1022,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 631,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 1022,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1044557312545849345,
+          "id_str": "1044557312545849345",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dn8DV2nVAAEKLVZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dn8DV2nVAAEKLVZ.jpg",
+          "url": "https://t.co/dlUxMSFNoi",
+          "display_url": "pic.twitter.com/dlUxMSFNoi",
+          "expanded_url": "https://twitter.com/upasanakonidela/status/1044557328043798528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1044557312550068224,
+          "id_str": "1044557312550068224",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dn8DV2oVYAAwMOT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dn8DV2oVYAAwMOT.jpg",
+          "url": "https://t.co/dlUxMSFNoi",
+          "display_url": "pic.twitter.com/dlUxMSFNoi",
+          "expanded_url": "https://twitter.com/upasanakonidela/status/1044557328043798528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 747433748128473088,
+      "id_str": "747433748128473088",
+      "name": "Upasana Kamineni",
+      "screen_name": "upasanakonidela",
+      "location": "India",
+      "description": "Vice Chairperson Apollo Foundation ( the Charity arm of Apollo Hospitals Group) & MD Apollo Life ( the wellness arm of Apollo Hospitals Group)",
+      "url": "https://t.co/vdAJEvzrq9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vdAJEvzrq9",
+              "expanded_url": "https://www.youtube.com/c/UpasanaKamineniKonidela",
+              "display_url": "youtube.com/c/UpasanaKamin\u2026",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 783778,
+      "friends_count": 43,
+      "listed_count": 49,
+      "created_at": "Mon Jun 27 14:17:47 +0000 2016",
+      "favourites_count": 190,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 735,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006943012490866688/mqEFkrqT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006943012490866688/mqEFkrqT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/747433748128473088/1487057059",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 698,
+    "favorite_count": 6230,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 698,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 18:35:55 +0000 2018",
+  "id": 1045743925808562177,
+  "id_str": "1045743925808562177",
+  "text": "RT @shreyasgroup: Her gorgeous looks \ud83d\ude0d\ud83d\ude0d@Advani_Kiara #KiaraAdvani #RC12 https://t.co/wSP1HVBbuK",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "KiaraAdvani",
+        "indices": [
+          53,
+          65
+        ]
+      },
+      {
+        "text": "RC12",
+        "indices": [
+          66,
+          71
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "shreyasgroup",
+        "name": "Shreyas Group",
+        "id": 1290527054,
+        "id_str": "1290527054",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "Advani_Kiara",
+        "name": "Kiara Advani",
+        "id": 2432156600,
+        "id_str": "2432156600",
+        "indices": [
+          39,
+          52
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045656920504188928,
+        "id_str": "1045656920504188928",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+        "url": "https://t.co/wSP1HVBbuK",
+        "display_url": "pic.twitter.com/wSP1HVBbuK",
+        "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 679,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045656995183751173,
+        "source_status_id_str": "1045656995183751173",
+        "source_user_id": 1290527054,
+        "source_user_id_str": "1290527054"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045656920504188928,
+        "id_str": "1045656920504188928",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+        "url": "https://t.co/wSP1HVBbuK",
+        "display_url": "pic.twitter.com/wSP1HVBbuK",
+        "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 679,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045656995183751173,
+        "source_status_id_str": "1045656995183751173",
+        "source_user_id": 1290527054,
+        "source_user_id_str": "1290527054"
+      },
+      {
+        "id": 1045656933603000320,
+        "id_str": "1045656933603000320",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLrcORUwAAio-j.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLrcORUwAAio-j.jpg",
+        "url": "https://t.co/wSP1HVBbuK",
+        "display_url": "pic.twitter.com/wSP1HVBbuK",
+        "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045656995183751173,
+        "source_status_id_str": "1045656995183751173",
+        "source_user_id": 1290527054,
+        "source_user_id_str": "1290527054"
+      },
+      {
+        "id": 1045656961109250048,
+        "id_str": "1045656961109250048",
+        "indices": [
+          72,
+          95
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoLrd0vU0AAgtpZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoLrd0vU0AAgtpZ.jpg",
+        "url": "https://t.co/wSP1HVBbuK",
+        "display_url": "pic.twitter.com/wSP1HVBbuK",
+        "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 679,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1079,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045656995183751173,
+        "source_status_id_str": "1045656995183751173",
+        "source_user_id": 1290527054,
+        "source_user_id_str": "1290527054"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 867253587566514176,
+    "id_str": "867253587566514176",
+    "name": "Srinivas",
+    "screen_name": "Sriniva57452210",
+    "location": "Rajahmundry, India",
+    "description": "first crys on sep 13\ud83d\ude0d\nDHFM\u270c\ncrazy abt tweets\ud83d\ude18\nphotos crusher\ud83e\udd18",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 122,
+    "friends_count": 349,
+    "listed_count": 1,
+    "created_at": "Wed May 24 05:39:02 +0000 2017",
+    "favourites_count": 12130,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8989,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039158401312464898/LYoY-Ayb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039158401312464898/LYoY-Ayb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/867253587566514176/1516982633",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 12:50:29 +0000 2018",
+    "id": 1045656995183751173,
+    "id_str": "1045656995183751173",
+    "text": "Her gorgeous looks \ud83d\ude0d\ud83d\ude0d@Advani_Kiara #KiaraAdvani #RC12 https://t.co/wSP1HVBbuK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KiaraAdvani",
+          "indices": [
+            35,
+            47
+          ]
+        },
+        {
+          "text": "RC12",
+          "indices": [
+            48,
+            53
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Advani_Kiara",
+          "name": "Kiara Advani",
+          "id": 2432156600,
+          "id_str": "2432156600",
+          "indices": [
+            21,
+            34
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045656920504188928,
+          "id_str": "1045656920504188928",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+          "url": "https://t.co/wSP1HVBbuK",
+          "display_url": "pic.twitter.com/wSP1HVBbuK",
+          "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045656920504188928,
+          "id_str": "1045656920504188928",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLrbdeUwAAmonh.jpg",
+          "url": "https://t.co/wSP1HVBbuK",
+          "display_url": "pic.twitter.com/wSP1HVBbuK",
+          "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1045656933603000320,
+          "id_str": "1045656933603000320",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLrcORUwAAio-j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLrcORUwAAio-j.jpg",
+          "url": "https://t.co/wSP1HVBbuK",
+          "display_url": "pic.twitter.com/wSP1HVBbuK",
+          "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1045656961109250048,
+          "id_str": "1045656961109250048",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoLrd0vU0AAgtpZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoLrd0vU0AAgtpZ.jpg",
+          "url": "https://t.co/wSP1HVBbuK",
+          "display_url": "pic.twitter.com/wSP1HVBbuK",
+          "expanded_url": "https://twitter.com/shreyasgroup/status/1045656995183751173/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1079,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1290527054,
+      "id_str": "1290527054",
+      "name": "Shreyas Group",
+      "screen_name": "shreyasgroup",
+      "location": "Hyderabad",
+      "description": "Unique CONCEPTS\nUnparalleled SERVICES\nUnmatchable PROMOTIONS. \nShreyas Media - One Stop Solution for BRANDING & PROMOTIONAL ACTIVITIES.",
+      "url": "https://t.co/20dupXVjEp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/20dupXVjEp",
+              "expanded_url": "http://www.facebook.com/Shreyasgroup",
+              "display_url": "facebook.com/Shreyasgroup",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 15034,
+      "friends_count": 149,
+      "listed_count": 31,
+      "created_at": "Sat Mar 23 05:42:59 +0000 2013",
+      "favourites_count": 714,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 14394,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/562136533369495552/rMxAv4Xi_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/562136533369495552/rMxAv4Xi_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290527054/1538120114",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 51,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}{
+  "created_at": "Fri Sep 28 18:29:37 +0000 2018",
+  "id": 1045742341036826624,
+  "id_str": "1045742341036826624",
+  "text": "RT @AlwaysCharan_FC: #RC12 Fan Made Edit \ud83d\udc4c\n\n#RamCharan\n#11YrsOfIconicRAMCHARAN https://t.co/0ADvdR4z4r",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RC12",
+        "indices": [
+          21,
+          26
+        ]
+      },
+      {
+        "text": "RamCharan",
+        "indices": [
+          44,
+          54
+        ]
+      },
+      {
+        "text": "11YrsOfIconicRAMCHARAN",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlwaysCharan_FC",
+        "name": "RamCharan Fans Club",
+        "id": 222085921,
+        "id_str": "222085921",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1045586471896276992,
+        "id_str": "1045586471896276992",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+        "url": "https://t.co/0ADvdR4z4r",
+        "display_url": "pic.twitter.com/0ADvdR4z4r",
+        "expanded_url": "https://twitter.com/AlwaysCharan_FC/status/1045586491726909440/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 464,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045586491726909440,
+        "source_status_id_str": "1045586491726909440",
+        "source_user_id": 222085921,
+        "source_user_id_str": "222085921"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1045586471896276992,
+        "id_str": "1045586471896276992",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+        "url": "https://t.co/0ADvdR4z4r",
+        "display_url": "pic.twitter.com/0ADvdR4z4r",
+        "expanded_url": "https://twitter.com/AlwaysCharan_FC/status/1045586491726909440/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 464,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 616,
+            "h": 903,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1045586491726909440,
+        "source_status_id_str": "1045586491726909440",
+        "source_user_id": 222085921,
+        "source_user_id_str": "222085921"
+      }
+    ]
+  },
+  "metadata": {
+    "iso_language_code": "en",
+    "result_type": "recent"
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 753505142071320576,
+    "id_str": "753505142071320576",
+    "name": "rafiqcherry",
+    "screen_name": "rangasthalam",
+    "location": "Ananthapur",
+    "description": "Cherry",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 467,
+    "friends_count": 936,
+    "listed_count": 1,
+    "created_at": "Thu Jul 14 08:23:20 +0000 2016",
+    "favourites_count": 113363,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 58856,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1034449940162916352/PXESkmnP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1034449940162916352/PXESkmnP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/753505142071320576/1495905973",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Sep 28 08:10:20 +0000 2018",
+    "id": 1045586491726909440,
+    "id_str": "1045586491726909440",
+    "text": "#RC12 Fan Made Edit \ud83d\udc4c\n\n#RamCharan\n#11YrsOfIconicRAMCHARAN https://t.co/0ADvdR4z4r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RC12",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "RamCharan",
+          "indices": [
+            23,
+            33
+          ]
+        },
+        {
+          "text": "11YrsOfIconicRAMCHARAN",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1045586471896276992,
+          "id_str": "1045586471896276992",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+          "url": "https://t.co/0ADvdR4z4r",
+          "display_url": "pic.twitter.com/0ADvdR4z4r",
+          "expanded_url": "https://twitter.com/AlwaysCharan_FC/status/1045586491726909440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1045586471896276992,
+          "id_str": "1045586471896276992",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoKrWz9U4AA5lgC.jpg",
+          "url": "https://t.co/0ADvdR4z4r",
+          "display_url": "pic.twitter.com/0ADvdR4z4r",
+          "expanded_url": "https://twitter.com/AlwaysCharan_FC/status/1045586491726909440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 616,
+              "h": 903,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 222085921,
+      "id_str": "222085921",
+      "name": "RamCharan Fans Club",
+      "screen_name": "AlwaysCharan_FC",
+      "location": "Andhra Pradesh, India",
+      "description": "Welcome to the Unofficial FanClub of #RamCharan... one stop for all Updates of Mega Power Star .. #TeamRamCharan\n#RC12ForSankranthi2019",
+      "url": "https://t.co/JXb9fh8svo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/JXb9fh8svo",
+              "expanded_url": "https://www.facebook.com/AlwaysRamCharan",
+              "display_url": "facebook.com/AlwaysRamCharan",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 58351,
+      "friends_count": 6,
+      "listed_count": 42,
+      "created_at": "Thu Dec 02 12:27:40 +0000 2010",
+      "favourites_count": 337,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 9762,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3A3C3D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1045587321356054528/fzxfAZNZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045587321356054528/fzxfAZNZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/222085921/1525443710",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 149,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "retweet_count": 45,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
