@@ -2,8 +2,8 @@
 from __future__ import print_function
 import tweepy
 import numpy as np
-import configurations
 import pandas as pd
+import configurations
 import time
 import sys
 import json
