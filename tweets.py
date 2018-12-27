@@ -8,8 +8,8 @@ import dateutil.parser
 from textblob import TextBlob
 from pandas.core.resample import TimeGrouper
 from pandas.tseries.offsets import DateOffset
-#from cachetools import cached, TTLCache  # 1 - let's import the "cached" decorator and the "TTLCache" object from cachetools
-#cache = TTLCache(maxsize=1000, ttl=300)
+from cachetools import cached, TTLCache  # 1 - let's import the "cached" decorator and the "TTLCache" object from cachetools
+cache = TTLCache(maxsize=1000, ttl=300)
 
 ###############################################################
 #This functions will return the data as required by google maps
@@ -87,7 +87,7 @@ def make_hashtags(tweetsDataframe):
 		
 
 	
-#@cached(cache)
+@cached(cache)
 def Twitter(search_string):
 	
 	graph = pd.read_csv('./data/trends_flow/graph.csv')
