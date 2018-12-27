@@ -60,5 +60,5 @@ The dependencies are contained in the file requirements.txt
 24. tweepy==3.5.0
 25. Werkzeug==0.11.15
 
-# Team members:
+# Team members
 Akhil Denchanala
