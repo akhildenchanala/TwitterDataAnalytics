@@ -1,9 +1,9 @@
 a, a:focus, a:hover, a:active {
-  color: #00afd7;
+  color: #008787;
 }
 
 h1, h2, h3 {
-  font-family: "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-family: "Times New Roman", Times, serif;
   margin: 12px 0;
 }
 h1 {
@@ -19,17 +19,16 @@ h2 {
   font-size: 21px;
 }
 h3 {
-  color: rgb(84, 102, 120);
-  font-size: 21px;
+  color: #001629;
+  font-size: 18px;
   font-weight: 500;
   letter-spacing: -0.28px;
   line-height: 29.39px;
+  text-align: center;
+   font-style: italic;
 }
 
-.btn {
-  background: transparent;
-  border: 1px solid white;
-}
+
 
 .keen-logo {
   height: 38px;
@@ -45,20 +44,20 @@ h3 {
 }
 
 
-.navbar-nav {
-  margin: 5px 0 0;
-}
-.navbar-nav > li > a {
-  font-size: 15px;
-  font-weight: 200;
-  letter-spacing: 0.03em;
-  padding-top: 19px;
-  text-shadow: 0 0 2px rgba(0,0,0,.1);
-}
+
 .navbar-nav > li > a:focus,
 .navbar-nav > li > a:hover {
   background: transparent none;
 }
+
+
+
+
+
+
+
+
+
 
 .navbar-nav > li > a.navbar-btn {
   background-color: rgba(255,255,255,.25);
@@ -143,8 +142,9 @@ h3 {
 }
 
 .love {
-  border-top: 1px solid #d7d7d7;
+  border-top: 1px solid #d72800;
   color: #546678;
+  font-size: 17px;
   margin: 24px 0 0;
   padding: 15px 0;
   text-align: center;

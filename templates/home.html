@@ -1,313 +1,279 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
-  <title>Tweet Analyzer</title>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
-  
-  
-  <link rel="stylesheet" type="text/css" href="../static/assets/lib/bootstrap/dist/css/bootstrap.min.css" />
-  <link rel="stylesheet" type="text/css" href="../static/assets/css/keen-dashboards.css" />
+	<meta charset="utf-8">
+	<link rel="shortcut icon" href="../static/assets/img/twitter.png" type="image/png">
+	<title>Twitter Analytics</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+	<link rel="stylesheet" type="text/css" href="../static/assets/css/modal.css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="../static/assets/css/keen-static.css" rel="stylesheet" type='text/css' />
+	<link href="../static/assets/css/keen-dashboards.css" rel="stylesheet" type='text/css' />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://d26b395fwzu5fz.cloudfront.net/keen-dataviz-1.1.3.css" rel="stylesheet" />
+	<script src="https://d26b395fwzu5fz.cloudfront.net/keen-dataviz-1.1.3.js" type="text/javascript"></script>
+	<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script type="text/javascript">
+		
+	google.charts.load('current', {'packages': ['geochart','annotationchart','annotatedtimeline','corechart','table'],'mapsApiKey': 'AIzaSyBq0Lddhu5DQ3v_Kukw421h4TX01gSmlrA'});
+	google.charts.setOnLoadCallback(drawVisualization);
+	google.charts.setOnLoadCallback(drawLineChart);
+	google.charts.setOnLoadCallback(drawRetweetTable);
+	google.charts.setOnLoadCallback(drawHashtagsTable);
+		  
 
-  
-  <!--Map 1-->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages': ['geochart','corechart','bar','table']});
-      google.charts.setOnLoadCallback(drawChart);
-      google.charts.setOnLoadCallback(drawVisualization);
-      google.charts.setOnLoadCallback(drawBasic);
-      google.charts.setOnLoadCallback(drawChart1);
-      google.charts.setOnLoadCallback(drawTable);
-	  google.charts.setOnLoadCallback(drawTable1);
+	function drawVisualization() {
+		
+		var data = new google.visualization.DataTable();
+		data.addColumn('number', 'LATITUDE');                                
+		data.addColumn('number', 'LONGITUDE');
+		data.addColumn('number', 'SENTIMENT');
+			   
+			   
+		var full = new Array()                     
+		{% for item in tweet_map %}
+			var arr = {{item|safe}}
+			full.push(arr)
+		{% endfor %}
+		data.addRows(full);
+				
+		var options = {
+		colorAxis: {colors: ['#ff0000', '#00ff59']},
+		sizeAxis: { minSize: 4, maxSize: 4},
+		'width':"100%",'height':400,
+		displayMode: 'markers', 
+		backgroundColor: '#ffffff',
+		enableRegionInteractivity: 'true', 
+		region:'world',
+		};
+		var chart = new   google.visualization.GeoChart(document.getElementById('gridz')); 
+		chart.draw(data, options);
+	}
 
-        function drawVisualization() {var data = new google.visualization.DataTable();
-           data.addColumn('number', 'LATITUDE');                                
-           data.addColumn('number', 'LONGITUDE');
-           data.addColumn('string', 'DESCRIPTION'); 
-           //data.addColumn('number', 'Value:', 'value'); 
-           data.addColumn({type:'string', role:'tooltip'});   
-           var full = new Array()                     
-           {% for item in tweet_map %}
-              var arr = {{item|safe}}
-              full.push(arr)
-              //var arr1 = JSON.parse(arr.replace("&#39;","'"));
-              
-              //console.log(arr);
-           {% endfor %}
-           data.addRows(full);
+	function drawLineChart() {
 
-		   var options = {
-			 colorAxis: {colors: ['#ff0000', '#00ff59']},
-			 'width':"100%",'height':400,
-			 displayMode: 'markers', 
-			 enableRegionInteractivity: 'true', 
-			 sizeAxis: {minValue: -1, maxValue:1},
-			 region:'world',
-			 tooltip: {textStyle: {color: '#444444'}}    
-		   };
-        var chart = new   google.visualization.GeoChart(document.getElementById('gridz')); 
-       chart.draw(data, options);
-       
-       }
-
-
-      //Map 2 Donut:: Language
-      function drawChart() {
-        var data = new google.visualization.arrayToDataTable({{doughnut|safe}});
-        var options = {
-          title: 'Tweet language',
-          pieHole: 0.3,
-          'width':400,
-          'height':400
-        };
-
-        var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
-        chart.draw(data, options);
-      }
-
-
-      //Map 3 Column Chart :: Sources
-    function drawBasic() {
-
-      var data = google.visualization.arrayToDataTable({{sources_plot|safe}});
-
-      var options = {
-        'width':600,
-        'height':400,
-        title: 'Top 5 Twitter Platforms',
-        chartArea: {width: '50%'},
-        hAxis: {
-          title: 'Number of users',
-          minValue: 0
-        },
-        vAxis: {
-          title: 'Twitter Application Platforms'
-        }
-      };
-
-      var chart = new google.visualization.BarChart(document.getElementById('bar-chart'));
-
-      chart.draw(data, options);
-    }
-
-    //Map 4 :: Sentiment Map :: Pie Chart
-
-    function drawChart1() {
-
-        // Create the data table.
-        var data = google.visualization.arrayToDataTable({{sentiment_pie|safe}});
-
-        // Set chart options
-        var options = {'title':'Sentiment Analysis of tweets',
-                       'width':400,
-                       'height':400};
-
-        // Instantiate and draw our chart, passing in some options.
-        var chart = new google.visualization.PieChart(document.getElementById('sentiment-pie'));
-        chart.draw(data, options);
-      }
+		var data = new google.visualization.arrayToDataTable({{trend_line|safe}});
+		var view = new google.visualization.DataView(data);
+		view.setColumns([{
+			type: 'datetime',
+			label: data.getColumnLabel(0),
+			calc: function (dt, row) {
+			var dateArray = dt.getValue(row, 0).split('-');
+			var year = dateArray[0];
+			var month = dateArray[1] - 1; // subtract 1 to convert to javascript's 0-indexed months
+			var day = dateArray[2]; //The day is the third split
+			return new Date(year, month, day);
+			}
+		},1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]);
 
 
-      function drawTable() {
-        var data = google.visualization.arrayToDataTable({{table|safe}});
-    
+		$(document).on('change','.series_chk',drawLineChart);
+		$(window).resize(drawLineChart);
+		drawLine();
+		
+		function drawLine() {
 
-        var table = new google.visualization.Table(document.getElementById('retweet-table'));
+			var view1 = new google.visualization.DataView(view);
+			view1.setColumns([0,1,2,3]);
+			var chart = new google.visualization.AnnotatedTimeLine(document.getElementById('graph'));
+			var options = {
+			  displayAnnotations: true
+			};
+		chart.draw(view1, options);
+		}	
 
-        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
-      }
+		function drawLineChart() {
 	  
-      function drawTable1() {
-        var data = google.visualization.arrayToDataTable({{table1|safe}});
-    
+		var chartColumns = [0];
+		var view1 = new google.visualization.DataView(view);
+		
+		$.each($('.series_chk'), function (index, checkbox) {
+			var seriesColumn = parseInt(checkbox.value);
+			if (checkbox.checked) {
+			chartColumns.push(seriesColumn);
+			}
+		});
+		view1.setColumns(chartColumns);
+			var chart = new google.visualization.AnnotatedTimeLine(document.getElementById('graph'));
+			var options = {
+				  displayAnnotations: true
+				};
+		chart.draw(view1, options);
+		}	
+	}
 
-        var table = new google.visualization.Table(document.getElementById('trend-table'));
+	function drawRetweetTable() {
+		  
+		var data = google.visualization.arrayToDataTable({{retweet_table|safe}});
+		var table = new google.visualization.Table(document.getElementById('retweet-table'));
+		table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+	}
+		  
+			
+	function drawHashtagsTable() {
+		var data = new google.visualization.arrayToDataTable({{hashtags|safe}});
+		var table = new google.visualization.Table(document.getElementById('hashtags'));
+		var options = {
+		width: '100%', height: '100%',
+		showRowNumber: true
+		};
 
-        table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
-      }
+		table.draw(data, options);
+		google.visualization.events.addListener(table, 'select', selectHandler);
 
+		function selectHandler(e) {
+			var selection = table.getSelection();
+			var message = '';
+			for (var i = 0; i < selection.length; i++) {
+				var item = selection[i];
+				if (item.row != null && item.column != null) {
+					var str = data.getFormattedValue(item.row, item.column);
+					message = str ;
+				} else if (item.row != null) {
+					var str = data.getFormattedValue(item.row, 0);
+					message = str ;
+				} else if (item.column != null) {
+					var str = data.getFormattedValue(0, item.column);
+					message = str ;
+				}
+			}
+			MakeRequest(message);  
+		}
+	}
+		function MakeRequest(message) {
+		
+			$.ajax({
+				url : '/',
+				data:{"select":message},
+				type: 'POST',
+				beforeSend: function() {
+				$('body').addClass("loading"); 
+				},
+				success: function(response) {
+				$('body').removeClass("loading");
+				$('body').html(response).show();
+				}	
+			});
+		}
+		
+	$(document).ready(function(){
+	var hashtags={{hashtags|safe}};
+	
+		$.each(hashtags,function(index,value){
+				if(index>0 && index<=3)
+				{var checkbox="<label for="+value+">"+value+"</label><input class='series_chk' type='checkbox' id="+(value)+" value="+(index)+" name="+(value)+" checked>"
+				$(".checkBoxContainer").append($(checkbox));}
+			else if(index>0)
+				{var checkbox="<label for="+value+">"+value+"</label><input class='series_chk' type='checkbox' id="+(value)+" value="+(index)+" name="+(value)+" >"
+				$(".checkBoxContainer").append($(checkbox));}
+		})
 
+	});
 
-
-
-
-    </script>
-  
-  
-  
-
-  <!-- Demo Dependencies -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" type="text/javascript"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.3.2/holder.min.js" type="text/javascript"></script>
-  <script>
-    Holder.add_theme("white", { background:"#fff", foreground:"#a7a7a7", size:10 });
-  </script>
-
-  <!-- keen-analysis@1.2.2 -->
-  <script src="https://d26b395fwzu5fz.cloudfront.net/keen-analysis-1.2.2.js" type="text/javascript"></script>
-
-  <!-- keen-dataviz@1.1.3 -->
-  <link href="https://d26b395fwzu5fz.cloudfront.net/keen-dataviz-1.1.3.css" rel="stylesheet" />
-  <script src="https://d26b395fwzu5fz.cloudfront.net/keen-dataviz-1.1.3.js" type="text/javascript"></script>  
-
-  <!-- Dashboard -->
-  <link rel="stylesheet" type="text/css" href="../../assets/css/keen-dashboards.css" />
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
+</script>
 </head>
-<body class="keen-dashboard" style="padding-top: 80px;">
 
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-       
-        <a class="navbar-brand" href="./">Twitter Analyzer</a>
-      </div>
+<body class="keen-dashboard" style="padding-top: 60px;">
 
-      <div class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-left">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Team</a></li>
-          <li><a href="#">Github Source</a></li>
-        </ul>
-        <div class="col-sm-3 col-md-3 pull-right">
-        <form class="navbar-form" role="search" method="POST" action ="/">
-        <div class="input-group">
-            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
-            <div class="input-group-btn">
-                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-            </div>
-        </div>
-        </form>
-        </div>
-      </div>
-    </div>
-  </div>
 
-    
-  
-  
+	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"  data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
 
-  <div class="container-fluid">
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-left">
+					<li><a href="/"><i class="glyphicon glyphicon glyphicon-home"></i> Home</a></li>
+					<li><a href="/"><i class="glyphicon glyphicon glyphicon-user"></i> Team</a></li>
+					<li><a href="/"><i class="glyphicon glyphicon-info-sign"></i> Github Source</a></li>
+				</ul>
+			<div class="nav navbar-nav navbar-right">
+				<li><a href="https://twitter.com/"><i class="fa fa-twitter" style="font-size:22px;color:#1da1f2"></i> </a></li>
+			</div>
+			<div class="col-sm-3 col-md-3 pull-right">
+				<form class="navbar-form" role="search" method="POST" action ="/">
+					<div class="input-group">
+						<input type="text" class="form-control" placeholder="Search" name="select" id="select">
+						<div class="input-group-btn">
+							<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+						</div>
+					</div>
+				</form>
+			</div>
+		  </div>
+		</div>
+	</div>
+
+	<div class="container-fluid">
 		<div class="row">
-		  <div class="col-sm-2">
-			<div class="chart-wrapper">
-			  <div class="chart-title">
-				Top Twitter Trends
-			  </div>
-				<div class="chart-stage" id="trend-table">
-				</div>
-			  <div class="chart-notes">
-				You'll see top twitter trends in last six months!
-			  </div>
+			<div class="col-sm-2">
+				<form method="POST" action="/"  type="submit">
+					<h3>Trending Hashtags</h3>
+					<div class="chart-wrapper"  id = "rcorner">		
+						<div class="chart-stage" id="hashtags"></div>
+						<div class="chart-notes">This module displays the top trending hashtags,
+						rest of the web page is based on this module!</div>
+					</div>		
+				</form>			
 			</div>
-		  </div>
-		  
-		  
-		  
-		  <div class="col-sm-7">
-		   <div class="chart-wrapper">
-			<div class="chart-title">
-				Tweet Distribution Map :: Search Query "{{search}}"
-			</div>
-			<div class="chart-stage">
-				<div id="gridz">
+
+			<div class="col-sm-7">
+				<h3>Hashtags Trend - flow</h3>
+				<div class="chart-wrapper"  id = "rcorner">
+					<div class="chart-title">
+						Select the Hashtags: 
+						<div class="checkBoxContainer"></div>
+					</div>
+					<div class="chart-stage">
+						<div id="graph" style='width: 100%; height: 400px'>
+						</div>
+					</div>
+					<div class="chart-notes">
+							This graphs the hashtags based on the tweet volume per day.
+					</div>
+				</div>
+				<h3>Tweet Distribution Map</h3>
+				<div class="chart-wrapper"  id = "rcorner">
+					<div class="modal"></div>
+
+					<div class="chart-stage">
+						<div id="gridz" style='width: 100%; height: 400px'>
+						</div>
+					</div>
+					<div class="chart-notes">
+							Displaying the tweets location of the hashtag <b><i><u>{{search|safe}}</u></i></b> with sentiment analysis;
+							<font color="red">Red</font> indicates <b>negative</b> and <font color="green">Green</font> indicates <b>positive</b>.
+					</div>
 				</div>
 			</div>
-			<div class="chart-notes">
-					Showing location of the tweets.
-			</div>
-		   </div>
-		   
-		   
-		   
-		   		   <div class="chart-wrapper">
-			<div class="chart-title">
-				Hashtags trend - flow
-			</div>
-			<div class="chart-stage">
-				<div id="gridz">
-				</div>
-			</div>
-			<div class="chart-notes">
-					This graphs the top 5 trending hashtags based on the tweet volume per hour
-			</div>
-		   </div>
-		  
-	  
-	  
-			<div class="col-sm-6">
-				<div class="chart-wrapper">
-				<div class="chart-title">
-					Tweet Language Analysis
-				</div>
-				<div class="chart-stage" id="donutchart" >
-				</div>
-				<div class="chart-notes">
-					See which languages your users are tweeting in.
-				</div>
-				</div>
-			</div>  
-	  
-			
-			
-			<div class="col-sm-6">
-				<div class="chart-wrapper">
-				<div class="chart-title">
-					Twitter Sentiment Analysis
-				</div>
-				<div class="chart-stage" id="sentiment-pie">
-				</div>
-				<div class="chart-notes">
-					Tweets are given sentiment scores, based on the positive and negative words they contain
-				</div>
-				</div>
-			</div>  
-		  </div>
-	  
+			  
 			<div class="col-sm-3">
-			  <div class="chart-wrapper">
-				<div class="chart-title">
-					Most re-tweeted hashtags using "{{search}}"
+			<h3> Most Retweeted tweets</h3>
+				<div class="chart-wrapper"  id = "rcorner">
+					<div class="chart-stage" id="retweet-table"></div>
+					<div class="chart-notes">This module displays the Top Re - tweeted User accounts for hashtag: <b><i><u>{{search|safe}}</u></i></b></div>
 				</div>
-				<div class="chart-stage" id="retweet-table">
-				</div>
-				<div class="chart-notes">
-					Users whose tweets are tweeted most
-				</div>
-			  </div>
 			</div>		 		 
 		</div> 		 
-   </div>
-   
-  <div class="container-fluid">
-    <p class="small text-muted">Built with &#9829; by <a href="https://www.facebook.com/akhil.denchanala">Akhil Denchanala</a></p>
-  </div>
-
-  <!-- Project Analytics -->
-  <script type="text/javascript" src="../../assets/js/keen-analytics.js"></script>
+	</div>
+	
+	<div class="footer">
+		<div class="container">
+			<div class="love">
+			<p class="small text-muted">Built with &#9829; by <a href="https://www.facebook.com/akhil.denchanala">Akhil Denchanala</a></p>
+			</div>
+		</div>
+	</div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="../static/assets/js/keen-analytics.js"></script>
 </body>
 </html>
