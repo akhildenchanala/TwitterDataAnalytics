@@ -17,7 +17,7 @@ def index():
 		print(search)
 		(a,b,c,d)=Twitter(search)
 		print(a,b,c,d)
-		return render_template('home.html',tweet_map=a,retweet_table=(b),trend_line=(c),hashtags = json.dumps(d),search=search)
+		return render_template('home.html',tweet_map=a,trend_line=(c),hashtags = json.dumps(d),search=search)
 	return "<h1>Something went wrong !! </h1>"
 
 
